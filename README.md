@@ -1,4 +1,4 @@
-#Market Stock Program
+#Market Stock Program:
     This program is a stock management application developed using Python and Tkinter.
 
 #Purpose:
