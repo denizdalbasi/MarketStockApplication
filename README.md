@@ -5,7 +5,7 @@ This program is a stock management application developed using Python and Tkinte
 
 #Features:
 
-    Management of product name, price, quantity, minimum quantity, and VAT rate
+    Management of product name, price, quantity, minimum quantity
 
     User-friendly graphical interface (GUI)
 
