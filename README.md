@@ -1,5 +1,4 @@
-#Market Stock Program:
-    This program is a stock management application developed using Python and Tkinter.
+This program is a stock management application developed using Python and Tkinter.
 
 #Purpose:
     Designed to help small markets or businesses easily track products, add new items, delete products, update stock quantities, and save/load data.
